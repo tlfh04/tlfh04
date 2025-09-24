@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Hello%20I'm%20Yongmin%20Lee&fontSize=40)
 
 🚀 **My Skills**    
+  
 ![이미지](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![이미지](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![이미지](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
