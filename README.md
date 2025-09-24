@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Hello%20I'm%20Yongmin%20Lee&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=150&section=header&text=Hello%20I'm%20Yongmin%20Lee&fontSize=40)
 
 ## 🚀 My Skills    
   
