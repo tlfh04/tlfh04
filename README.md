@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=<넣고싶은메시지>&fontSize=90&animation=fadeIn" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=<넣고싶은메시지>&fontSize=90&animation=fadeIn)
 ### Hi I'm Yongmin Lee
 
 ![이미지](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
