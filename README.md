@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Hello%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Hello%20I'm%20Yongmin%20Lee&fontSize=90)
 ### Hi I'm Yongmin Lee
 
 ![이미지](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
